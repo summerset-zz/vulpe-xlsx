@@ -209,8 +209,16 @@ xlsx有很多编辑器（如微软的excel、openOffice、WPS等），这些编�
 
 另外请格外注意在excel里的日期类单元格，这类单元格始终会输出浮点数（而不是时间戳什么的）。
 
-# finale 结语
+# to-be-added 可能会增加的功能
+* `setType`: with custom handler / setType时允许指定一个处理函数
+* i18nTable: translate certain row from another sheet when output / 支持关联一个本地化表
+* advancedArray: support numberArray or stringArray, and so on / `array`类列支持numberArray或stringArray
+* browser-side support / 浏览器侧支持
 
-Feel free to ask questions on github page https://github.com/summerset-zz/vulpe-xlsx/
+
+
+# misc 其他 
+
+Feel free to contact me on github page https://github.com/summerset-zz/vulpe-xlsx/
 
 如有问题可在github页中提出~
