@@ -10,7 +10,16 @@
     "version-minor": "npm version minor",
     "version-major": "npm version major"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/summerset-zz/vulpe-xlsx"
+  },
+  "author": "Chirod Summerset <kyoinbeijing@163.com>",
+  "keywords": [
+    "xlsx",
+    "node",
+    "中文文档"
+  ],
   "license": "ISC",
   "dependencies": {
     "node-xlsx": "^0.21.0"
