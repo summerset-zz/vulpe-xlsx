@@ -1,6 +1,6 @@
 {
   "name": "vulpe-xlsx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "exports xlsx sheet, each line as an object with different type of field.",
   "main": "./dist/index.js",
   "type": "module",
