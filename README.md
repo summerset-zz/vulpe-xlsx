@@ -1,5 +1,8 @@
 # vulpe-xlsx
 
+**not yet finished**
+
+
 parse xlsx worksheet into an object array. each column can be set to be parsed to following type of data:
 * `string` - default
 * `number`
